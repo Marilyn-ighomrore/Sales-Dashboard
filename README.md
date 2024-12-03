@@ -104,9 +104,27 @@ EDA involved exploratng the sales data to answer key questions, such as:
 
 A. Who is the Top Buying Age Group?
 
-B. Which products are top seller?
+B. Which products are top-performing
 
-C. What are the peak sales period?
+C. Which products are top seller?
+
+D. What are the peak sales period?
+
+E. Which product category generates the highest revenue?
+
+F. What is the total revenue, total units sold, and total profit from the sales data?
+
+G. How does purchase behavior differ between male and female customers?
+
+H. Which locations (City, Rural, Suburb) have the highest product sales and revenue?
+
+I. How does the performance of Branch A, B, and C compare in terms of revenue?
+
+J. What are the monthly and yearly sales trends, and are there any seasonal patterns?
+
+K. Are certain product categories more popular in specific locations?
+
+L. Is there a significant correlation between marketing efforts and sales performance?
 
 #### Insights
 
