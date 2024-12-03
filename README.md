@@ -30,6 +30,10 @@ CLEARX Cosmetics faces a significant business challenge in effectively monitorin
  
  C. Resource Allocation: CLEARX Cosmetics struggles to allocate resources efficiently, leading to stockouts or overstock situations.
 
+ ![Cleaned Data for the merged branches pic](https://github.com/user-attachments/assets/d8045c2f-cbdf-44d1-a49c-76fc1470f4df)
+
+ ![Sales dasboard pic](https://github.com/user-attachments/assets/3bcdc13b-9c46-4275-87bf-5c703f8cddf2)
+
 #### Aim of the Project
 
 The project aims to achieve the following specific objectives:
@@ -44,7 +48,7 @@ D. Carry out basic data analysis, and dashboard utilization to enhance decision-
 
 #### Data Description
 
-  This dataset combines sales transaction data with customer information and provides insights into the company's sales performance, product categories, and customer demographics over the specified period.[download.here](https://1drv.ms/x/c/d47afabc6cf06e28/ESh6p-cN2G9PiGCDeHZ3-FsB0-SCpr5radsypw8wLZl1jQ?e=KeBkvx)
+  This dataset combines sales transaction data with customer information and provides insights into the company's sales performance, product categories, and customer demographics over the specified period.[download.here](https://1drv.ms/x/c/d47afabc6cf06e28/ERYwIZeT0zxJlae2UCxMmNcBsT4bywPxz0fHvULP6ffTgA?e=m5cESa)(https://1drv.ms/x/c/d47afabc6cf06e28/Edyn1dP3cp9OsSVldbirY08BADn8quFRGTXgUc0Paudr-Q?e=w12ciE)(https://1drv.ms/x/c/d47afabc6cf06e28/EZ-YVzDPdNtCjNnwO-g8CtMBVfUJXg0Yl8CnhWlwAgZfhg?e=dCmKaE)
   
 ✓ Date: The date of the sales transaction, ranging from January 1, 2021, to December 31, 2022.
 
@@ -145,7 +149,7 @@ H. By leveraging these insights and recommenfdations, the decision-making capabi
 
 ### Reference
 
-Amdari
+Amdari(https://www.amdari.io/dashboard-projects/Data%20Analytics/dashboard-project-details/114)
 
 Mo chen videos on youtube on Excel
 
