@@ -149,9 +149,9 @@ H. By leveraging these insights and recommenfdations, the decision-making capabi
 
 ### Reference
 
-Amdari(https://www.amdari.io/dashboard-projects/Data%20Analytics/dashboard-project-details/114)
+- Amdari(https://www.amdari.io/dashboard-projects/Data%20Analytics/dashboard-project-details/114)
 
-Mo chen videos on youtube on Excel
+- Mo chen videos on youtube on Excel
 
 
 
